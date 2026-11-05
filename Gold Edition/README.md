@@ -44,6 +44,8 @@ RPG characters that previously had no spells have been given mana and a full ars
 ### Items
 New items have been added to RPG mode, such as decoctions, food, scrolls, stat-increasing statues, and a shovel that can be used to dig up hidden treasures.
 ![preview_Items](Images/05-preview_Items.jpg)
+![02-preview_dem2](Images/02-preview_dem2.png)
+![03-preview_EthernalDemon](Images/03-preview_EthernalDemon.png)
 
 ### New Skills:
 * **Knowledge** – The character can add skill points using knowledge scrolls,

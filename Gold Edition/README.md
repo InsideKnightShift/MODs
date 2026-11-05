@@ -1,7 +1,7 @@
 # Gold Edition
 
 # Mod Update & Features Changelog
-![02-preview_EthernalDemon](Images/03-preview_EthernalDemon.png)
+![03-preview_EthernalDemon](Images/03-preview_EthernalDemon.png)
 * Hundreds of new enemies in RPG mode,
 * Constantly added spells,
 * Expanded map editor,
@@ -13,7 +13,7 @@
 * New RPG interface,
 * New game modes,
 
-![03-preview_dem2](Images/02-preview_dem2.png)
+![02-preview_dem2](Images/02-preview_dem2.png)
 * Constantly expanding translation,
 * Continuously modified RPG mode and ongoing balance work,
 * Many new mechanics,
@@ -29,20 +29,21 @@
 
 ---
 ## RPG Mode Remaster
-![04-preview_dem2](Images/04-preview_Postacie_remastered_statusbarpl.png)
+![04-preview_Postacie_remastered_statusbarpl](Images/04-preview_Postacie_remastered_statusbarpl.png)
 ---
 
 ### Refreshed Interface
 The RTS and RPG game interfaces have been adapted for 16:9 monitors.
-![05-preview_Interface](Images/03-preview_Interface.jpg)
+
+![05-preview_Interface](Images/05-preview_Interface.jpg)
 
 ### New Skills and Spells
 RPG characters that previously had no spells have been given mana and a full arsenal of unique abilities useful in combat against enemies.
-![06-preview_Spells](Images/04-preview_Spells.jpg)
+![06-preview_Spells](Images/06-preview_Spells.jpg)
 
 ### Items
 New items have been added to RPG mode, such as decoctions, food, scrolls, stat-increasing statues, and a shovel that can be used to dig up hidden treasures.
-![07-preview_Items](Images/05-preview_Items.jpg)
+![07-preview_Items](Images/07-preview_Items.jpg)
 
 ### New Skills:
 * **Knowledge** – The character can add skill points using knowledge scrolls,

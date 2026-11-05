@@ -1,4 +1,5 @@
 # Gold Edition
+![01-preview_SPS_PL](Images/01-preview_SPS_PL.png)
 
 # Mod Update & Features Changelog
 ![03-preview_EthernalDemon](Images/03-preview_EthernalDemon.png)

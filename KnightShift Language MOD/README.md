@@ -1,4 +1,4 @@
-\# KnightShift language MOD
+# KnightShift Language MOD
 
 Friday, 10th October 2003
 

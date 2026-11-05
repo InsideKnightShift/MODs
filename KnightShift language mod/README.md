@@ -9,5 +9,7 @@ The Installation of this MOD replaces the German language edition with the Engli
 
 NOTE: the OGG audio compression technology used by this KnightShift MOD has been included for research purposes. This technology will be used in Earth 2160, the next big, smash episode in Reality Pump's hit series.
 
+---
 
-
+**Version:** 1.01  
+**Type:** Translations
